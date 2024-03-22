@@ -1,0 +1,43 @@
+Valorant 
+
+Goal 
+
+Valorant is a 5v5 competitive first-person tactical shooter game where the goal is separated into two parts, there are 2 sides where 2 teams have to fight, the first being attacker and the other being defender. The goal of the attacking side is to plant the bomb onto a bomb site and defend that bomb before it explodes, and the goal of the defending side is to protect the bomb site and defuse the bomb if planted, the main goal of the game is to defeat the other team and whoever reaches 13 points first wins. If both teams won 12 rounds, the game would go into either sudden death where the game is decided on the next round or overtime where the game is decided on who wins 2 rounds first. 
+
+Rules 
+
+The rules of the game are when 2 teams fight each other and whoever wins 13 rounds first wins. Each team is separated into two, one being attacker and the other being defender. The game has a map where the teams are separated, the map is divided into 2, attacker side and defender side. The defender side is where the bombsites are, this is when the defenders are going to defend 2 bombsites, namely A and B. The attacker side is in a place where they are far from the bombsites which they will attack later. The attacking team carries a bomb to plant into a bombsite and defends it until it explodes, the other being defender which defends these bombsites and defuses the spike before it is exploded. 
+
+Other rules of the game are where the player picks a character before the match starts, the characters are divided into 4 roles: duelist, controller, sentinel and initiator. Each has their own separate uses where they specialize at which makes it so that every team needs at least 1 character from each role to win the game.  
+
+ 
+
+Balance 
+
+The game has a list of characters to pick from, the characters are divided into 4 roles: duelist, controller, sentinel and initiator.  Each has their own separate uses that they specialize in. The duelist is the role that takes on duels between opposing players and the role that entries into the bomb site. Their abilities are solely to win duels and entry into a bombsite or area. The controller is the role where they take control of the portion of the map. Their abilities shut off angles and are crucial in winning the game. The sentinel is a role where people use traps to win fights and take control of a small portion of the map. And lastly the initiator, which supports the team by initiating fights with the opposing team using their abilities to help the team win their fights. 
+
+ 
+
+Story 
+
+The story of the game is for each team to win by working together to beat the opposing team 
+
+ 
+
+Feedback 
+
+After each game, you get credits named kingdom points which you can use to buy accessories for your guns/account. And if you play ranked, you get a higher rank if you win. 
+
+Adaptivity 
+
+The better you get, the more games you win, and the more rounds you win, the better the players that you fight are. This happens to prevent unfair games where someone is better than the other and creates an equal playing field for every player to enjoy the game. 
+
+ 
+
+Chance vs Skill 
+
+The game is a skill-based game which heavily relies on your aim and game sense. Sometimes, you can get lucky, but it is usually mainly focused on skill. 
+
+PC and NPC 
+
+The game itself only has Player Characters in it, but if you go inside the practice mode, there will be training bots that can help you improve in this game. 
